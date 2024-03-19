@@ -15,7 +15,7 @@ Due to the difficulty of collecting real paired data, most existing desmoking me
 
 ## 2. Real-World Results
 
-
+### Please wait a few seconds for loading videos.
 <table>
   <tr> 
      <td>
