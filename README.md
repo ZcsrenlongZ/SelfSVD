@@ -15,7 +15,37 @@ Due to the difficulty of collecting real paired data, most existing desmoking me
 
 ## 2. Real-World Results
 
-Some video demos can be found at the [**site**](https://anonymoususeranonymoususer.github.io/).
+
+<table>
+  <tr> 
+     <td>
+          <center>Input Smoky Video</center>
+    </td>
+     <td>
+          <center>Output Video</center>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <img src="./videos/demo1_in.gif">
+    </td>
+    <td>
+      <img src="./videos/demo1_out.gif">
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <img src="./videos/demo2_in.gif">
+    </td>
+    <td>
+      <img src="./videos/demo2_out.gif">
+    </td>
+  </tr>
+</table>
+
+
+
+<!-- Some video demos can be found at the [**site**](https://anonymoususeranonymoususer.github.io/). -->
 <p align="center"><img src="./figures/real_vis1.png" width="95%"></p>
 
 <p align="center"><img src="./figures/real_vis2.png" width="95%"></p>
