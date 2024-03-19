@@ -1,5 +1,8 @@
 # SelfSVD
-PyTorch implementation of Self-Supervised Video Desmoking for Laparoscopic Surgery
+PyTorch implementation of [**Self-Supervised Video Desmoking for Laparoscopic Surgery**](https://arxiv.org/pdf/2403.11192.pdf)
+
+
+[![arXiv](https://img.shields.io/badge/arXiv-2403.11192-b10.svg)](https://arxiv.org/pdf/2403.11192.pdf)
 
 In this work, we suggest utilizing the internal characteristics of real-world surgery videos for effective self-supervised video desmoking, and propose a SelfSVD solution.
 
