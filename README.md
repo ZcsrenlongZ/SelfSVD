@@ -24,7 +24,7 @@ Due to the difficulty of collecting real paired data, most existing desmoking me
 
 ## 2. LSVD Dataset
 
-Fill Dataset Request Form via [Baidu Cloud](https://pan.baidu.com/s/1tpMQQJrqtwJUwFET1WkyTA?pwd=mvam) (提取码：mvam ), and contact hirenlongwu@gmail.com with this form to get MVG dataset ( Non-institutional emails (e.g. gmail.com) are not allowed. Please provide your institutional email address.).
+Fill Dataset Request Form via [Baidu Cloud](https://pan.baidu.com/s/1tpMQQJrqtwJUwFET1WkyTA?pwd=mvam) (提取码：mvam ), and contact hirenlongwu@gmail.com with this form to get LSVD dataset ( Non-institutional emails (e.g. gmail.com) are not allowed. Please provide your institutional email address.).
 
 ## 3. Real-World Results
 
