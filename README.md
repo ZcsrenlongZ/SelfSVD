@@ -1,4 +1,4 @@
-# SelfSVD (ECCV2024)
+# SelfSVD (ECCV 2024)
 PyTorch implementation of [**Self-Supervised Video Desmoking for Laparoscopic Surgery**](https://arxiv.org/pdf/2403.11192.pdf)
 
 
