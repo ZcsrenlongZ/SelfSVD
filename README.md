@@ -63,7 +63,7 @@ Fill Dataset Request Form via [Baidu Cloud](https://pan.baidu.com/s/1tpMQQJrqtwJ
 ## Citation
 If you make use of our work, please cite our paper.
 ```bibtex
-@article{selfsvd,
+@article{SelfSVD,
   title={Self-Supervised Video Desmoking for Laparoscopic Surgery},
   author={Wu, Renlong and Zhang, Zhilu and Zhang, Shuohao and Gou, Longfei and Chen, Haobin and Zhang, Lei and Chen, Hao and Zuo, Wangmeng},
   journal={ECCV},
