@@ -1,0 +1,1 @@
+bash ./tools/train.sh ./configs/dehazers/selfsvd/selfsvdstar.py 1
