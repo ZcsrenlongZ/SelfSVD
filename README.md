@@ -28,7 +28,9 @@ Due to the difficulty of collecting real paired data, most existing desmoking me
 
 ### 3.2 LSVD Dataset
 Please download the data from Baidu Netdisk (Chinese: 百度网盘).
-- LSVD dataset link: https://pan.baidu.com/s/1Jy8G36Njg68UbzsbOEKdZQ?pwd=v4nn
+- Please Fill Dataset Request Form via [Baidu Cloud](https://pan.baidu.com/s/1lfG43YBKS263WA1ThJ58cQ?pwd=yq2v), and send it to hirenlongwu@gmail.com with this form ( Non-institutional emails (e.g. gmail.com) are not allowed. Please provide your institutional email address.).
+- LSVD dataset link: https://pan.baidu.com/s/1uzqSau1BQ-_mUqlpyT_tZQ?pwd=b4iq
+
 
 ### 3.3 Pretrained models
 - The pretrained models are coming soon.
