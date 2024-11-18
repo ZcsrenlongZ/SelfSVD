@@ -9,7 +9,6 @@ PyTorch implementation of [**Self-Supervised Video Desmoking for Laparoscopic Su
 ## News
 - 🔥 Laparoscopic surgery video desmoking (LSVD) dataset is now available. 
 - 🔥 SelfSVD codes are now available. 
-- **`TODO`:**  Release pretrained model.
 
 In this work, we suggest utilizing the internal characteristics of real-world surgery videos for effective self-supervised video desmoking, and propose a SelfSVD solution.
 
@@ -33,7 +32,7 @@ Please download the data from Baidu Netdisk (Chinese: 百度网盘).
 
 
 ### 3.3 Pretrained models
-- The pretrained models are coming soon.
+- The pretrained models link: https://pan.baidu.com/s/1N-qsyW14310dZyrFdYvl_Q?pwd=i3w2
 
 ### 3.4. Quick Start 
 - Train SelfSVD, run [`bash ./train_selfsvd.sh`](./train_selfsvd.sh)
