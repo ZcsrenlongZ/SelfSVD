@@ -26,9 +26,8 @@ Due to the difficulty of collecting real paired data, most existing desmoking me
 - mmcv 1.7.1, cupy-cuda113, opencv, numpy, Pillow, timm, tqdm, scikit-image
 
 ### 3.2 LSVD Dataset
-Please download the data from Baidu Netdisk (Chinese: 百度网盘).
 - Please Fill Dataset Request Form via [Baidu Cloud](https://pan.baidu.com/s/1d0x1bF_plL1uuBjlS0rlCA?pwd=8ick), and send it to hirenlongwu@gmail.com with this form ( Non-institutional emails (e.g. gmail.com) are not allowed. Please provide your institutional email address.).
-- LSVD dataset link: https://pan.baidu.com/s/1nsK-Qvtl-m8haaO7V8-VlA?pwd=0a4w
+- LSVD dataset link: https://huggingface.co/datasets/notsunshine/LSVD
 
 
 ### 3.3 Pretrained models
